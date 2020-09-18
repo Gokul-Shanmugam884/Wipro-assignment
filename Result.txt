@@ -1,0 +1,25 @@
+Checkbox clicked : False
+Register : Register Account
+Checkbox clicked : False
+Register : Your Account Has Been Created!
+Logout : Account Logout
+You have been logged off your account. It is now safe to leave the computer.
+Your shopping cart has been saved, the items inside it will be restored whenever you log back into your account.
+Continue
+Logout : Account Logout
+You have been logged off your account. It is now safe to leave the computer.
+Your shopping cart has been saved, the items inside it will be restored whenever you log back into your account.
+Continue
+Logout : Account Logout
+You have been logged off your account. It is now safe to leave the computer.
+Your shopping cart has been saved, the items inside it will be restored whenever you log back into your account.
+Continue
+Number of menu links = 8
+Logout : Account Logout
+You have been logged off your account. It is now safe to leave the computer.
+Your shopping cart has been saved, the items inside it will be restored whenever you log back into your account.
+Continue
+Logout : Account Logout
+You have been logged off your account. It is now safe to leave the computer.
+Your shopping cart has been saved, the items inside it will be restored whenever you log back into your account.
+Continue
